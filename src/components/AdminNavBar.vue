@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <v-app-bar app flat class="blue-grey lighten-5">
+    <v-app-bar app  class="blue-grey lighten-5">
        <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
       <v-toolbar-title class="text-uppercase">Dashboard</v-toolbar-title>
       <v-spacer></v-spacer>
@@ -53,7 +53,7 @@
     >
 
     <v-list dense class="py-0">
-    <p  class="text-center mb-0 py-2 grey lighten-1 white--text text--bold">
+    <p  class="text-center mb-0 py-5 deep-purple lighten-1 white--text text--bold">
         Admin Panel 
        <span class="off_leftbar"> <v-icon fab outlined color="white" class="hidden-md-and-up red--text font-weight-bold" large @click="drawer = false">mdi-alpha-x</v-icon></span>
     </p>

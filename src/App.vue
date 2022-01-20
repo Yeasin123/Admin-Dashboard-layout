@@ -1,7 +1,7 @@
 <template>
   <v-app class="main_div">
     <admin-nav-bar></admin-nav-bar>
-    <v-main>
+    <v-main class="mt-4">
       <router-view />
     </v-main>
   </v-app>
