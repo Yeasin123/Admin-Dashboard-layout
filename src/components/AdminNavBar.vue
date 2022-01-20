@@ -39,7 +39,7 @@
     </v-list>        
 
       </v-menu>
-      
+
       <v-btn small class="text-capitalize">
         <span>Sign Out</span>
         <v-icon right>mdi-logout</v-icon>
@@ -54,7 +54,7 @@
 
     <v-list dense class="py-0">
     <p  class="text-center mb-0 py-2 grey lighten-1 white--text text--bold">
-        MarnSteel
+        Admin Panel 
        <span class="off_leftbar"> <v-icon fab outlined color="white" class="hidden-md-and-up red--text font-weight-bold" large @click="drawer = false">mdi-alpha-x</v-icon></span>
     </p>
       
