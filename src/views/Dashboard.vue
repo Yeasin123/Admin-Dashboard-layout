@@ -27,7 +27,7 @@
                 $ 50
               </v-list-item-title>
              </v-list-item-content>
-             <v-avatar color="warning">
+             <v-avatar color="blue lighten-2">
               <v-icon dark>
                 mdi-currency-usd
               </v-icon>
